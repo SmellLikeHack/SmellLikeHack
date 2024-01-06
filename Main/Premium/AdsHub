@@ -1,8 +1,1 @@
-<html>
-<head>
-<title></title>
-</head>
-<body>
-<h1>game.Players.LocalPlayer:Kick("Banned")</h1>
-<body>
-</html>
+game.Players.LocalPlayer:Kick("Banned")
